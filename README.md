@@ -51,4 +51,5 @@ Hangzhou, China
 
 ***
 - ### Note：
-  - To be continued~~ @ Speedy.ZJF, on Nov.26, 2018
+  - To be continued~~ @ Speedy.ZJF, on Nov.26, 2018(Version 6.1)
+  - on (Version 6.2)
