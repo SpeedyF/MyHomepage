@@ -7,10 +7,10 @@ School of Mathematical Sciences
 Zhejiang University  
 Hangzhou, China  
 
-Office: B310  
-Phone: (86) 176-********  
-Email: jf.zhang2018@gmail.com ; jfzhang2018@zju.edu.cn  
-BackupEmail: jfsufeng@gmail.com ; jfsufeng@foxmail.com 
+**Office:** B310  
+**Phone:** (86) 176-********  
+**Email:** jf.zhang2018@gmail.com ; jfzhang2018@zju.edu.cn  
+**BackupEmail:** jfsufeng@gmail.com ; jfsufeng@foxmail.com 
 
 ### Education
 - Sep.2018 - Present, Doctor Student in Applied Mathematics, ZJU.
