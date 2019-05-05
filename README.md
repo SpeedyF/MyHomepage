@@ -1,5 +1,5 @@
 ## Intro
-**JF.Zhang (Speedy)**  
+**JF.Zhang (Jeff)**  
 Doctor Student  
 
 Department of Applied Mathematics  
